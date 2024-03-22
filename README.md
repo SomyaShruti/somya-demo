@@ -1,3 +1,4 @@
 # somya-demo
 Learning git repository
-Author- Somya Shruti 
+<br>
+Author- Somya Shruti (Apna College)
